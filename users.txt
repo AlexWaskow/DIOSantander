@@ -1,0 +1,10 @@
+user
+usuario
+mfsadmin
+admin
+admninistrator
+administrador
+root
+server
+local
+boss
